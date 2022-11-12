@@ -1,0 +1,10 @@
+{
+    "recommendations": [
+        "editorconfig.editorconfig",
+        "mhutchie.git-graph",
+        "github.copilot",
+        "eamodio.gitlens",
+        "davidanson.vscode-markdownlint",
+        "rust-lang.rust-analyzer"
+    ]
+}
